@@ -3,8 +3,6 @@
 
 ## Index
 
-- [Fundamentals of Apache Kafka:](#fundamentals-of-apache-kafka)
-  - [Index](#index)
   - [1. Kafka's architecture](#1-kafkas-architecture)
   - [Producers:](#producers)
   - [Brokers:](#brokers)
